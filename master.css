@@ -1,0 +1,26 @@
+.mainblock{ font-family: 'Source Sans Pro', sans-serif;
+    background-color: #2E3440;
+    color: #ECEFF4;
+
+}
+
+
+.lowblock1 { font-size: large;
+             font-weight: bold;
+             cursor: pointer;
+             transition: 00.25s;
+             border-radius: 9px;
+             background-color: #4C566A;
+             padding: 10px;
+             color: #ECEFF4;
+             width: 100px;
+
+
+}
+
+
+.upperblock1{background-color: #4C566A;
+             font-family: 'Source Sans Pro', sans-serif;
+             color: #ECEFF4;
+             border-radius: 9px;
+}
